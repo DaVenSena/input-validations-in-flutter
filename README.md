@@ -26,7 +26,7 @@ Or directly if your using VSCode install the Flutter extension and run the proje
 
 and for the work, you in
 
-```flutter
+```dart
 TextField(
   controller: controller,
   decoration: const InputDecoration(
